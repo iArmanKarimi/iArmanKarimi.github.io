@@ -1,2 +1,4 @@
 # iArmanKarimi.github.io
-My GitHub page
+
+Front-end challenges:
+- [QR code component](challenge-qr-code-component)
