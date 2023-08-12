@@ -4,3 +4,6 @@
 [submodule "challenge-product-preview-card-component"]
 	path = challenge-product-preview-card-component
 	url = https://github.com/iArmanKarimi/challenge-product-preview-card-component
+[submodule "challenge-nft-preview-card-component"]
+	path = challenge-nft-preview-card-component
+	url = https://github.com/iArmanKarimi/challenge-nft-preview-card-component
