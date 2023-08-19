@@ -7,3 +7,6 @@
 [submodule "challenge-nft-preview-card-component"]
 	path = challenge-nft-preview-card-component
 	url = https://github.com/iArmanKarimi/challenge-nft-preview-card-component
+[submodule "challenge-results-summary-component"]
+	path = challenge-results-summary-component
+	url = https://github.com/iArmanKarimi/challenge-results-summary-component
