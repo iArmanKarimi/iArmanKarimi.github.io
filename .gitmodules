@@ -10,3 +10,6 @@
 [submodule "challenge-results-summary-component"]
 	path = challenge-results-summary-component
 	url = https://github.com/iArmanKarimi/challenge-results-summary-component
+[submodule "challenge-article-preview-component"]
+	path = challenge-article-preview-component
+	url = https://github.com/iArmanKarimi/challenge-article-preview-component
