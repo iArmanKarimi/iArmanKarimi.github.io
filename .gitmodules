@@ -13,3 +13,6 @@
 [submodule "challenge-article-preview-component"]
 	path = challenge-article-preview-component
 	url = https://github.com/iArmanKarimi/challenge-article-preview-component
+[submodule "challenge-3-column-preview-card-component"]
+	path = challenge-3-column-preview-card-component
+	url = https://github.com/iArmanKarimi/challenge-3-column-preview-card-component
