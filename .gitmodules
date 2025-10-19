@@ -16,3 +16,6 @@
 [submodule "challenge-3-column-preview-card-component"]
 	path = challenge-3-column-preview-card-component
 	url = https://github.com/iArmanKarimi/challenge-3-column-preview-card-component
+[submodule "challenge-order-summary-component"]
+	path = challenge-order-summary-component
+	url = https://github.com/iArmanKarimi/challenge-order-summary-component
