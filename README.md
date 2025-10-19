@@ -1,6 +1,6 @@
 # [iArmanKarimi.github.io](https://iarmankarimi.github.io)
 
-Front-end challenges:
+Frontend Mentor Challenges:
 
 - [QR code component](https://iarmankarimi.github.io/challenge-qr-code-component)
 - [Product preview card component](https://iarmankarimi.github.io/challenge-product-preview-card-component)
