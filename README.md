@@ -1,5 +1,3 @@
-# [iArmanKarimi.github.io](https://iarmankarimi.github.io)
-
 Frontend Mentor Challenges:
 
 - [QR code component](https://iarmankarimi.github.io/challenge-qr-code-component)
