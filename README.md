@@ -7,3 +7,4 @@ Frontend Mentor Challenges:
 - [Article preview component](https://iarmankarimi.github.io/challenge-article-preview-component)
 - [3 Column preview card component](https://iarmankarimi.github.io/challenge-3-column-preview-card-component)
 - [Order summary component](https://iarmankarimi.github.io/challenge-order-summary-component)
+- [Recipe page](https://iarmankarimi.github.io/challenge-recipe-page)
