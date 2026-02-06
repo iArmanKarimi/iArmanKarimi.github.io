@@ -10,4 +10,5 @@
 | [3 Column preview card component](https://iarmankarimi.github.io/challenge-3-column-preview-card-component) | <img src="images/column-preview-card.png" width="300" /> |
 | [Order summary component](https://iarmankarimi.github.io/challenge-order-summary-component)                 | <img src="images/order-summary.png" width="300" />       |
 | [Recipe page](https://iarmankarimi.github.io/challenge-recipe-page)                                         | <img src="images/recipe.png" width="300" />              |
-| [Profile card](https://iarmankarimi.github.io/challenge-profile-card-component/)                            | <img src="images/profile-card.png width="300>            |
+| [Profile card](https://iarmankarimi.github.io/challenge-profile-card-component/)                            | <img src="images/profile-card.png" width="300" />        |
+| [Coming Soon](https://iarmankarimi.github.io/challenge-coming-soon/)                                        | <img src="images/coming-soon.png" width="300" />         |
